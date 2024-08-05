@@ -3,6 +3,7 @@
 **Email:** daoudtaha@gmail.com  
 **LinkedIn:** [linkedin.com/in/daoudtaha](https://linkedin.com/in/daoudtaha)  
 **GitHub:** [github.com/daoudtaha](https://github.com/daoudtaha)  
+**Page:** [My Page](https://daoudtaha.github.io/myresume/)  
 
 ## Education
 **National Engineering School of Sfax**  
